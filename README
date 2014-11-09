@@ -1,0 +1,20 @@
+Run the code by : -
+$ gcc FTP_protocol.c
+$ ./a.out
+
+
+when code runs it waits for user input of port u wish to listen to and port you want to connect to
+sample input for server and client are :
+
+
+Server
+------
+$ 6000
+$ 6001
+$ tcp
+
+Client
+------
+$ 6001
+$ 6000
+$ tcp
